@@ -15,14 +15,12 @@ const Education: React.FC = () => {
       ]
     },
     {
-      degree: "Full Stack Web Development",
-      institution: "Online Bootcamp",
-      location: "Remote",
+      degree: "Senior High School",
+      institution: "Sekolah Kristen Rehoboth Ambon",
       period: "2019",
       description: "Intensive program covering modern web technologies and frameworks.",
       achievements: [
         "Built 10+ production-ready projects",
-        "Specialized in React & Node.js ecosystem"
       ]
     }
   ];
