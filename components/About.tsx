@@ -14,18 +14,13 @@ const About: React.FC = () => {
             </h2>
             <div className="space-y-6 text-gray-400 font-light leading-relaxed">
               <p>
-                I am a passionate creative developer based in Indonesia, specializing in building digital products 
-                that are not only functional but also visually compelling.
+                Hello! I'm David Jehuda. I'm an AI Engineer and IT specialist who combines the power of machine learning with an intuitive UI/UX approach. I build systems that are not only logically intelligent, but also user-friendly and visually aesthetic.
               </p>
               <p>
-                With a background in both traditional computer science and modern UX design, 
-                I approach every project with a holistic mindset. I believe that the best code 
-                is invisible—users should simply feel the experience.
+                As an AI Engineer and Information Technology expert, I am dedicated to transforming raw data into intelligent solutions that deliver real impact. With deep specializations in Data Analytics, Machine Learning, and Deep Learning, I build systems that are not only efficient but also adaptive. I believe that the power of technology lies in its ability to solve complex problems and optimize strategic decision-making processes.
               </p>
               <p>
-                Currently exploring the frontiers of Generative AI and Web3 integration into 
-                standard web interfaces.
-              </p>
+                I continually explore the latest technologies to deliver efficient, solution-oriented intelligent systems. By combining the logic of Machine Learning with the creativity of UI/UX Design and Photography, I bridge the gap between technical functionality and visual experience, producing products that are both sophisticated and user-friendly.              </p>
             </div>
             
             <div className="mt-10 grid grid-cols-2 gap-6 font-mono text-sm">
